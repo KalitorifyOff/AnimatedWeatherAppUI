@@ -1,16 +1,88 @@
-# animatedweatherappui
+# Responsive Weather UI 🌦️
 
-A new Flutter project.
+A clean and modern **weather UI** built using Flutter. This project includes an **animated background**, modern typography, and a responsive layout to adapt seamlessly to different screen sizes.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Responsive Design**: Adapts smoothly to various screen sizes and orientations (mobile, tablet, and desktop).
+- **Animated Background**: Dynamic background animation for an engaging user experience.
+- **Modern Typography**: Utilizes the Google Fonts `Inter` for clean and stylish text.
+- **RichText Implementation**: Combines multiple text styles for visually appealing headlines.
+- **Safe Area Usage**: Ensures content stays visible across devices with notches or system bars.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+| Main Screen (0sec)                               | Main Section (after 2sec)                        | Main Section (after 4sec)                        |
+|--------------------------------------------------|--------------------------------------------------|--------------------------------------------------|
+| ![Animation1](assets/screenshots/Animation1.jpg) | ![Animation2](assets/screenshots/Animation2.jpg) | ![Animation3](assets/screenshots/Animation3.jpg) |
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter**: Cross-platform UI framework.
+- **Google Fonts**: For custom fonts integration.
+- **Material Design**: Standard Flutter widgets and components.
+
+---
+
+## 📦 Installation
+
+Follow these steps to set up and run the project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/responsive-weather-ui.git
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd responsive-weather-ui  
+
+3. **Install dependencies**:
+   ```bash
+   flutter pub get  
+
+4. **Run the app**:
+   ```bash
+   flutter run
+
+---
+
+## 🎨 Key Features
+
+- Responsive Layouts: Designed to adapt seamlessly to all screen sizes.
+- Rich Animations: Adds a dynamic touch to enhance user experience.
+- Stylish Typography: Powered by Google Fonts for a modern look.
+
+---
+
+## 👨‍💻 Author
+
+Hi, I'm **Renga Praveen Kumar**, a passionate developer with expertise in building modern, responsive, and user-friendly applications. I specialize in Flutter and enjoy creating projects that merge functionality with clean design.
+
+### My Skills:
+- Flutter & Dart
+- Responsive UI Development
+- REST API Integration
+- Animation
+- State Management(Bloc)
+- SOLID Principals
+- Advanced Flutter Testing
+
+### Let's Connect:
+- [Renga's GitHub](https://github.com/KalitorifyOff)
+- [Renga's LinkedIn](https://linkedin.com/in/your-profile)
+
+I hope this project inspires or helps you in your own development journey. Contributions and feedback are always welcome!
+
+---
+
+### Credite:
+
+I inspired these designs from this URL. Thank you Bogdan Falin.
+- [Bogdan Falin's Dribble Profile](https://dribbble.com/qclay_design).
+- [Weather Inspiration UI Design](https://dribbble.com/shots/25320809-Weather-App-Design)
